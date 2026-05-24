@@ -278,3 +278,73 @@ Hook line: "..."
 Type: [type]
 Context: [why this is relevant right now]
 -->
+
+---
+
+**Added 2026-05-24:**
+
+**Curiosity / Disbelief**
+1. "You're not going to believe this..."
+2. "I just discovered something crazy..."
+3. "I can't believe this actually worked..."
+4. "I don't usually share this but..."
+5. "This might sound crazy but hear me out..."
+
+**Regret / Timing**
+6. "I wish someone told me this sooner..."
+7. "Most people realize this too late..."
+8. "If you don't know this, you're already behind..."
+9. "You're running out of time to do this..."
+10. "I almost quit until I discovered this..."
+
+**Controversy / Insider**
+11. "This might get me in trouble for saying but..."
+12. "Nobody is talking about this..."
+13. "This is a secret nobody shares for free..."
+14. "The industry doesn't want you to know this..."
+15. "Here's what _ experts actually do behind closed doors..."
+16. "I'm going to say what everyone's thinking..."
+17. "Everyone told me this was a bad idea..."
+
+**Misconception / Truth**
+18. "It turns out everything I knew about _ was wrong..."
+19. "The biggest lie about _ you still believe..."
+20. "Sorry but this is the truth about _..."
+21. "The advice everyone gives about _ is actually terrible..."
+22. "Unpopular opinion: _"
+23. "Hot take: you don't need _ to succeed at _..."
+
+**Authority / Experience**
+24. "After _ years, here's what I learned..."
+25. "I studied _ for 10 years so here's the truth..."
+26. "I asked an expert and their answer shocked me..."
+27. "I tested _ so you don't have to..."
+28. "What happens when you try _ for 30 days..."
+29. "This strategy changed everything for me..."
+30. "This one habit quietly changed my entire life..."
+
+**Value Promise**
+31. "This might be the most valuable thing you learn today..."
+32. "This one thing separates beginners from experts..."
+33. "Three things you can do today to change _..."
+34. "Here's the cheat code for _..."
+35. "Here's exactly how I _ in under _ days..."
+36. "Do this once and you'll never struggle with _ again..."
+37. "This method gets results faster than anything I've tried..."
+38. "I tried every method. This is the only one that works..."
+
+**Challenge / Call-Out**
+39. "You're doing _ wrong. Here's why..."
+40. "The step everyone skips that ruins their _..."
+41. "Be honest — are you still doing _ this way?"
+42. "Don't do _ until you watch this..."
+43. "Let me ruin _ for you real quick..."
+44. "The mistake 90% of people make with _ is..."
+45. "If you've ever struggled with _ this is for you..."
+46. "If this doesn't describe you, keep scrolling..."
+
+**Empathy / Reframe**
+47. "No one talks about how hard _ actually is..."
+48. "You're not lazy — you just haven't tried _ yet..."
+49. "Most people scroll past this..."
+50. "I need you to screenshot this..."

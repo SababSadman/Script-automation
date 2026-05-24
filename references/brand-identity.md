@@ -13,6 +13,8 @@ Budget Promotion
 ### Brand Research Sources
 - Website URL: https://budgetpromotion.ca/
 - Instagram profile: https://www.instagram.com/budgetpromotion/
+- Facebook page: https://www.facebook.com/budgetpromotion
+
 
 ### Brand Positioning
 Budget Promotion is a Calgary-based custom apparel and promotional products company serving businesses across Canada. Its core category is custom branded merchandise, with a strong focus on screen printing, embroidery, DTF transfer, digital imprinting, apparel, headwear, outerwear, and promotional items.
@@ -20,8 +22,8 @@ Budget Promotion is a Calgary-based custom apparel and promotional products comp
 Positioning statement:
 Budget Promotion helps Calgary and Canadian organizations bring their brand to life through custom apparel, branded merchandise, expert decoration, fast turnaround, and personal in-house service.
 
-Strong website line:
-"We bring your design to life."
+Tagline:
+"Your Logo Your Way"
 
 ### Core Brand Promise
 The brand promise is built around quality, speed, service, and confidence.
@@ -51,26 +53,6 @@ Budget Promotion targets:
 - Restaurants needing uniforms and branded apparel
 - Trades and construction crews needing durable workwear
 - Events and camps needing custom apparel for occasions and group identity
-
-### Customer Audience
-These are real decision-makers under real pressure. They are not shopping for fun — they have a deadline, a budget, and someone counting on them.
-
-- The **office manager or marketing coordinator** who promised the executive team branded polos before the conference next week and needs it done without drama.
-- The **school administrator or team coach** placing the annual uniform order and quietly dreading the same bad experience they had last time — wrong sizes, late delivery, blurry logo.
-- The **small business owner** who needs staff looking professional on Monday and does not have time to chase a vendor.
-- The **construction company owner** who wants durable branded workwear that holds up and reflects the crew's standard — not cheap stuff that fades in a month.
-- The **non-profit or event organizer** managing a tight budget and needing every dollar to show up on the shirt.
-
-What they all share: they have been burned before. They want someone who takes the stress off them, not adds to it. They want a fast response, a real person, and confidence that the order will come back exactly right.
-
-### Script Audience
-When writing scripts for Budget Promotion, speak directly to the person who has been let down before and is quietly hoping this time is different.
-
-- **Emotional state:** Mildly stressed. They have a deadline. They are worried about the logo coming out wrong, the order arriving late, or having to chase someone down just to get a status update.
-- **What they want to hear:** That it is fast, that someone will actually help them, and that they will not have to figure it out alone.
-- **What they do not want:** A lesson on printing methods, vague claims, or a brand that feels too corporate to actually pick up the phone.
-- **How to speak to them:** Lead with relief. Address the fear of getting it wrong before listing features. Use phrases like "we handle everything," "you approve it before it prints," and "most orders ship within days." Make them feel like the hard part is already over the moment they reach out.
-- **Script tone:** Confident but warm. Service-first, not sales-first. Speak like the trusted local shop that actually knows what it is doing — not like a discount printer trying to close a deal.
 
 ### Tone of Voice
 - Style: Local, experienced, hands-on, reliable, practical, service-first, confident, and helpful.

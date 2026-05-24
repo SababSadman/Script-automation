@@ -14,68 +14,95 @@ This file is the source of truth for audience targeting across all brands and sc
 
 ### Customer Audience
 
-The primary buyer is a high-income decision-maker — a business owner, executive, or professional earning $100K+ — who treats branded merchandise as a direct extension of their company's reputation. They are not buying apparel. They are buying how their brand shows up in the world.
+Budget Promotion's ideal customer is a reputation-conscious business buyer with decision-making power. Money is not their main concern — their real concern is whether this supplier can make their brand look good, understand what they want, deliver on time, and handle everything properly.
 
-**Primary Personas:**
+- The **business owner** who needs professional branded apparel for their team and treats the quality of that merch as a direct reflection of how seriously they run their operation. They want expertise, not just a printer.
+- The **corporate team manager or marketing coordinator** ordering polos, hoodies, caps, and uniforms for an event, campaign, or company-wide rollout. The quality of the merch reflects on them personally — if it looks bad, they look bad.
+- The **event or golf tournament organizer** sourcing staff shirts, sponsor merch, premium polos, caps, towels, and giveaways. They have a fixed event date and cannot afford late delivery or poor quality in front of attendees and sponsors.
+- The **school, sports team, or trade company buyer** placing group orders for spirit wear, uniforms, or durable branded workwear. They need the right product for the right purpose — not random options — and they want the supplier to understand that quickly.
+- The **Stampede campaign or seasonal event planner** who needs branded apparel ready for a specific window and wants a supplier that does not require hand-holding to get it right.
 
-- The **business owner or executive ($100K+ income)** who sees branded apparel as a brand signal, not a commodity purchase. They want it to look premium. Cheap-looking merchandise is a reputation risk. They will pay more to get it right.
-- The **corporate marketing manager** ordering for a major event, campaign, or company-wide rollout. The quality of the merchandise reflects on them personally. If it looks bad, they look bad.
-- The **Calgary event organizer or community leader** preparing for a summer event or seasonal activation. They need merchandise that makes their organization look serious and professional — not like it was ordered last minute from a generic website.
-- The **high-growth small business owner** scaling their team and building a brand. They want workwear and branded gear that signals they run a real operation. The merchandise is part of how they recruit, retain, and present.
-- The **school, sports organization, or non-profit director** managing a significant group order where quality matters to the community they serve. They cannot afford to look amateurish in front of parents, donors, or fans.
+What they all share: a fear that the merch will embarrass them — wrong quality, late delivery, or a supplier who did not understand what they actually wanted.
 
-**What they all share:** A quiet fear that the merchandise will make their brand look cheap, generic, or unprofessional. They are not just worried about a bad vendor — they are worried about looking bad in front of the people who matter to them.
+**Core customer pain:** The supplier did not get it right — the merch looked cheap, arrived late, or required endless follow-ups that wasted their time and put their event or brand reputation at risk.
+**Core customer desire:** Complete relief — a supplier who understands their expectation quickly, recommends the right products, and delivers the final result without stress, excuses, or surprises.
 
-**Core customer insecurity:** Their branded merchandise will embarrass them — wrong quality, wrong look, wrong impression.
-**Core customer pain:** Cheap-looking merchandise undermines the brand image they have worked to build.
-**Core customer desire:** Apparel and merchandise that makes their brand look serious, polished, and intentional — executed by a vendor who understands brand quality, not just printing.
+---
 
-**Geographic focus:** Canada. Calgary is the primary local market, with a near-term emphasis on summer events and seasonal Calgary campaigns.
+### What the Customer Really Wants
+
+On the surface, they want custom merch. Emotionally, they want:
+- Trust that the supplier will get it right without being managed
+- Peace of mind that the brand will look professional and polished
+- Reliability that the order will arrive when it needs to
+- Expertise — the right product and decoration advice, not just a quote
+- A process that does not require constant follow-ups
+- Social confidence that no one at the event will cringe at the merch
+
+The real product Budget Promotion sells is **relief**. This customer wants to hand off the job and trust it will come back right.
+
+---
+
+### Main Customer Concerns
+
+**1. Reliability** — "Will they actually deliver what they promise?"
+The customer's biggest concern is whether Budget Promotion can execute. They want a supplier with a track record, not a promise.
+
+**2. Brand Image** — "Will this make us look professional, or will it make us look cheap?"
+Cheap-looking merch signals a cheap brand. This customer is acutely aware of that. They are not buying a shirt — they are buying how their company shows up.
+
+**3. On-Time Delivery** — "Will this be ready when I need it?"
+Event dates are fixed. Launch dates are fixed. There is no recovery from merch that arrives after the event.
+
+**4. Being Understood Quickly** — "Will they really understand what I want?"
+This customer does not want to explain the same thing twice. They want a supplier who reads the brief, asks the right questions, and moves without needing to be managed.
+
+**5. Fear of Embarrassment** — "What if people notice it looks cheap?"
+This is not just about quality — it is about public perception. They are thinking about employees, clients, guests, sponsors, and event attendees judging the merch. The fear is being embarrassed in front of people who matter.
 
 ---
 
 ### Script Audience
 
-Speak to the high-income professional who is quietly insecure about whether their branded order will actually represent their brand well. They have seen cheap merch embarrass other companies. They do not want that to be them.
+Speak to the reputation-conscious buyer who needs to trust the supplier before they hand over the job. They are not browsing — they have a real order in mind and a deadline attached to it.
 
-- **Who they are:** A $100K+ earner, business owner, or senior decision-maker. They are responsible for how their organization looks — and branded merchandise is part of that. The order is not small to them, even if the quantity is.
-- **Emotional state:** Quietly insecure and selectively skeptical. They have seen bad merchandise. They scroll past generic "custom printing" ads without blinking. The only thing that stops them is something that speaks directly to the quality of their brand — not the price of the service.
-- **What they want to hear:** That this is professional brand execution, not cheap printing. That 30 years of experience means their brand is in expert hands. That other serious businesses trust this vendor for this reason.
-- **What they do not want:** Anything that positions Budget Promotion as a discount option, bargain printer, or low-minimum commodity service. Price-first language immediately disqualifies the brand in this buyer's mind.
-- **How to open:** Lead with the insecurity — the fear of looking cheap — then resolve it with trust, experience, and quality. Do not lead with the product or the offer. Lead with what is at stake for them.
-- **How to speak to them:** Speak to their brand pride. Use language like "your brand deserves to show up right," "this is what serious organizations use," and "30 years of getting it right." Make them feel that choosing Budget Promotion is the smart, professional decision — not the budget decision.
-- **What to avoid:** The word "cheap" in any context. Generic template language. Discount-era framing. Anything that sounds like a promotional flyer. Price as the primary hook.
-- **Script tone:** Premium confidence built on 30 years of proof. Speaks to brand pride and the insecurity of looking amateurish, then resolves it with expertise and trust.
+- **Who they are:** A business owner, corporate manager, event organizer, or team administrator responsible for how their organization shows up. The merch order is not trivial to them — it represents their brand.
+- **Emotional state:** Selectively skeptical and quietly under pressure. They have either been burned before or watched someone else get burned. They scroll past generic "custom printing" ads without blinking. What stops them is something that speaks directly to their concern — reliability, reputation, and professional results.
+- **What they want to hear:** That Budget Promotion has done this thousands of times, understands what serious organizations need, and will handle the full process without excuses. Thirty years of experience and 20,000 customers served is the trust signal that lands.
+- **What they do not want:** Price-first language, discount framing, or anything that positions Budget Promotion as a commodity printer. That immediately disqualifies the brand in this buyer's mind. They also do not want vague claims — "great quality" means nothing without proof.
+- **How to open:** Lead with the fear — the risk of looking unprofessional, the stress of a missed deadline, or the cost of merch that embarrasses them. Then resolve it with trust, experience, and a specific proof point.
+- **How to speak to them:** Use language like "your brand deserves to show up right," "we've handled this for 20,000 customers," "your order comes back exactly as approved — or we reprint it." Make them feel that choosing Budget Promotion is the smart, low-risk, professional decision.
+- **What to avoid:** The word "cheap" in any context. Vague capability claims. Discount-era framing. Anything that sounds like a promotional flyer. Price as the primary hook.
+- **Script tone:** Confident and experienced. Speaks to brand pride and the fear of getting it wrong, then resolves it with 30 years of proof and a process that removes the risk.
 
 ---
 
 ### Proven Hook Angles for This Audience
 
-These hook strategies are validated for this buyer profile. Use them as the starting point for every script.
+**Reliability Hook**
+Speaks to the fear that the supplier will not deliver as promised.
+> *"Your merch supplier should make the process easier, not more stressful."*
+> *"When your event date is fixed, your merch cannot be late."*
 
-**Misconception Hook**
-Challenge the false belief that custom merchandise is cheap, low-effort, or interchangeable.
-> *"Most businesses think custom branded apparel is just cheap swag. The ones that get it right know it is a brand statement."*
-> *"Your competitors are not treating their branded gear like a commodity. Here is why."*
+**Brand Image Hook**
+Speaks to the fear that the merch will make the brand look cheap or unprofessional.
+> *"Cheap-looking merch can make your brand look cheap."*
+> *"At an event, your merch becomes part of your brand's first impression."*
 
-**Negative / Challenge Hook**
-Call out the mistake this audience is silently making or has already made.
-> *"If your team's uniforms are making your company look cheap — here is why that is happening."*
-> *"Stop ordering branded apparel from printers who treat your logo like clip art."*
+**Embarrassment Hook**
+Speaks to the most personal fear — being publicly judged for bad merch.
+> *"There is nothing worse than handing out branded gear and watching people notice it looks wrong."*
+> *"Your team, your clients, your guests — they all see the merch. Make sure it says the right thing."*
 
-**Experience Anchor Hook**
-Use 30 years of track record as the trust interrupt — not just longevity, but proof that serious organizations have relied on this.
-> *"We have been printing for Calgary's best businesses for 30 years. Here is what the ones with the best-looking merch have in common."*
+**Trust and Experience Anchor**
+Uses 30 years and 20,000 customers as the scroll-stopping proof point.
+> *"We have done this for 20,000 customers over 30 years. We know what it takes to get it right."*
+> *"Budget Promotion has been Calgary's trusted merch partner since 1994. Here is why that matters for your next order."*
 
-**Insecurity Hook**
-Speak directly to the fear of looking amateurish in front of their team, clients, or community.
-> *"There is nothing worse than handing out branded gear and watching your team cringe."*
-> *"The first time someone sees your brand on a shirt, you either look credible or you do not. There is no second chance."*
-
-**Seasonal / Event Hook (Calgary — Summer)**
-Target summer event organizers with time-based urgency and quality framing.
-> *"Calgary events season is coming. If your merchandise is not ordered yet, here is what you need to know."*
-> *"Every Calgary event has that one organization whose merch stands out. Here is how they do it."*
+**Seasonal / Event Hook (Calgary)**
+Targets event-driven buyers with time-based urgency and quality framing.
+> *"Calgary Stampede is coming. If your branded gear isn't ordered, here is what you need to know."*
+> *"Every event has that one organization whose merch stands out. Here is how they do it."*
 
 ---
 
@@ -97,18 +124,5 @@ What they all share: [one sentence on the shared pain, fear, or desire across al
 
 **Core customer pain:** [The specific frustration or fear driving the purchase decision.]
 **Core customer desire:** [The outcome or feeling they are actually buying.]
-
-### Script Audience
-
-[Who is the camera speaking to? This is the viewer persona — their mindset when they hit play, what they need to feel, and how the script should frame the message.]
-
-- **Who they are:** [Role, context, what they're responsible for.]
-- **Emotional state:** [How they're feeling when they encounter this content — curious, frustrated, pressured, hopeful, skeptical, etc.]
-- **What they want to hear:** [The message that makes them lean in or stop scrolling.]
-- **What they do not want:** [Language, framing, or claims that will make them tune out or distrust the brand.]
-- **How to open:** [What kind of hook lands for this audience — pain-first, result-first, question, bold statement, etc.]
-- **How to speak to them:** [Specific phrases, framing, or language patterns that resonate.]
-- **What to avoid:** [Specific language or tones that feel wrong for this viewer.]
-- **Script tone:** [One sentence summary of the overall voice and energy for this audience.]
 
 ---

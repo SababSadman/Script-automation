@@ -443,3 +443,83 @@ In 2026, Meta's algorithm (referred to as "Andromeda") no longer targets based o
 This is a foundational principle, not a single tactic. It should inform every script: the research that precedes it, the hook that opens it, the language used in the body, and the specificity of the CTA. Never write a generic script and expect targeting to do the work.
 
 **Source:** 2026 Creative-Centric Growth Blueprint (Ben Trogrlic, Sabri Suby, Dara Denney, Fraser Cottrell, Chase Chappell)
+
+---
+
+## Reel Script Output Format
+
+Every reel script must follow the structure below. The script should be written in a clean, production-friendly format so the speaker, videographer, and editor can understand it easily.
+
+---
+
+### Required Structure
+
+```
+Topic - [Reel topic]
+
+Voice Hook
+
+Opal bhai: "[Opening hook line]"
+Shot 01: [Clear description of the opening shot, camera framing, action, prop usage, and visual direction.]
+
+Body
+
+Opal bhai: "[First body line]"
+Shot 01: [Shot direction for this line.]
+
+Opal bhai: "[Second body line]"
+Shot 01: [Shot direction for this line.]
+
+Opal bhai: "[Third body line]"
+Shot 01: [Shot direction for this line.]
+
+CTA
+
+Opal bhai: "[Final call-to-action line]"
+Shot 01: [Final shot direction, preferably direct-to-camera or action-based.]
+```
+
+---
+
+### Formatting Rules
+
+- Always start with `Topic - [Topic Name]`
+- Use `Voice Hook`, `Body`, and `CTA` as the three main section labels — no other section names
+- Every spoken line must begin with `Opal bhai:`
+- Every spoken line must be immediately followed by `Shot 01:` with a clear visual direction on the next line
+- Shot directions must specify: camera framing, action, props, tone, and any editing idea when relevant
+- Keep the script easy to shoot, easy to read, and easy to edit
+- Do not add explanatory text before the script — go straight to `Topic -`
+- Anything added after the CTA — editor notes, production notes, reminders, optional ideas — must be placed under a separate markdown heading using `#`
+
+---
+
+### Reference Example
+
+```
+Topic - Get Stampede-ready now!
+
+Voice Hook
+
+Opal bhai: "Stampede is just around the corner and here's the mistake that costs brands REAL exposure."
+Shot 01: Talking-head shot of Opal bhai holding an iPad in one hand and pointing at it with the other hand. Blur the iPad display to make the audience curious about what the iPad is hiding.
+
+Body
+
+Opal bhai: "When Calgary Stampede hits, everybody wants hats, western shirts, team gear, and branded pieces at the same time."
+Shot 01: Medium-wide talking-head shot with a display table beside him showing hats, denim, and western-style apparel. He gestures toward the products while naming them.
+
+Opal bhai: "Rush doesn't always translate well to quality. So, brands that don't prepare early get left behind."
+Shot 01: Medium close-up of Opal bhai holding one premium product in hand while speaking in a calm expert tone.
+
+Opal bhai: "It's a 640 million dollar business opportunity and being left behind will hurt! So, choose the right western look, before the rush."
+Shot 01: Front-facing shot of Opal bhai holding two different apparel options and visually comparing them while he speaks.
+
+CTA
+
+Opal bhai: "So if your business wants to look ready for Stampede, send us your quote now and let our team help you build it before the rush."
+Shot 01: Strong direct-to-camera talking-head shot with Opal bhai standing near a desk or monitor where the quote page is visible in the background.
+
+# Production Notes
+[Any extra notes after the CTA should be placed here.]
+```
